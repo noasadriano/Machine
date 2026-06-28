@@ -1,0 +1,21 @@
+{
+  "name": "MiningTech Compare",
+  "short_name": "MiningCompare",
+  "description": "Comparação técnica de equipamentos de mineração",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
